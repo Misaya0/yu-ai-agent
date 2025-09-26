@@ -28,7 +28,7 @@ spring:
 #        distance-type: COSINE_DISTANCE
 #        max-document-batch-size: 10000
   datasource:
-    url: jdbc:postgresql://8.141.81.107:5432/yu_ai_agent
+    url: jdbc:postgresql://localhost:5432/yu_ai_agent
     username: root
     password: junzai
 
