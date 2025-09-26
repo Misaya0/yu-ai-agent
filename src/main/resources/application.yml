@@ -5,7 +5,7 @@ spring:
     active: local
   ai:
     dashscope:
-      api-key: sk-cd3fe3ae99904f579d1b7e1af6ef60d2
+      api-key: 你的APIkey
       chat:
         options:
           model: qwen3-max-preview
@@ -56,4 +56,4 @@ knife4j:
 # searchAPI
 search-api:
   # 需要替换为你自己的 key
-  api-key: F2gp8oTPV51gyaxxggHnwjLZ
+  api-key: 你的APIkey
